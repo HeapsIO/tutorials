@@ -1,0 +1,16 @@
+[submodule "Evoland"]
+	path = Evoland
+	url = https://github.com/ncannasse/ld24.git
+	branch = heaps
+[submodule "PrincessKingdom"]
+	path = PrincessKingdom
+	url = https://github.com/ncannasse/ld28.git
+[submodule "JungleHair"]
+	path = JungleHair
+	url = https://github.com/ncannasse/ld32.git
+[submodule "TheLastRoom"]
+	path = TheLastRoom
+	url = https://github.com/ncannasse/ld37.git
+[submodule "JonathanTheSorcerer"]
+	path = JonathanTheSorcerer
+	url = https://github.com/ncannasse/ld40.git
