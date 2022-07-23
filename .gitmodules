@@ -14,3 +14,6 @@
 [submodule "JonathanTheSorcerer"]
 	path = JonathanTheSorcerer
 	url = https://github.com/ncannasse/ld40.git
+[submodule "heapstutorials"]
+	path = heapstutorials
+	url = https://github.com/marcelEuchnerMartinez/heapstutorials
